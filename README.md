@@ -9,4 +9,4 @@ Jupyter-script to analyse official data:
 
 
 
-*Links in the Wiki: https://github.com/kolossos/Corona/wiki
+* Links in the Wiki: https://github.com/kolossos/Corona/wiki
