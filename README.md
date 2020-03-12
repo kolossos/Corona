@@ -6,3 +6,7 @@ Map with time slider:
 
 Jupyter-script to analyse official data:
 * https://nbviewer.jupyter.org/github/kolossos/Corona/blob/master/Intake01-Corona-daily-hist.ipynb
+
+
+
+*Links in the Wiki: https://github.com/kolossos/Corona/wiki
