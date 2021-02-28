@@ -1,5 +1,7 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kolossos/Corona/HEAD)
+
 # Corona
-Reporisitory about spreading COVID-19
+Repository about spreading COVID-19
 
 Map with time slider: 
 * https://kolossos.github.io/Corona/lay.html
